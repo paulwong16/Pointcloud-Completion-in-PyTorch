@@ -1,7 +1,7 @@
 # Pointcloud-Completion-in-PyTorch
 Some fancy pointcloud completion model implemented in PyTorch
 
-## Author Provided
+## Authors' Implementation
 - MSN Pointcloud Completion: https://github.com/Colin97/MSN-Point-Cloud-Completion
 - GRNet: https://github.com/hzxie/GRNet
 
@@ -14,4 +14,4 @@ Some fancy pointcloud completion model implemented in PyTorch
 - And more to be updated
 
 
-# Code Release Soon.
+**_Code Release Soon._**
