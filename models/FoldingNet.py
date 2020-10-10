@@ -3,11 +3,6 @@ import torch.nn as nn
 import torch.nn.functional as F
 
 
-import torch
-import torch.nn as nn
-import torch.nn.functional as F
-
-
 class PointNetfeat(torch.nn.Module):
     def __init__(self, dim_0, dim_1, dim_2, global_feat=True):
         super(PointNetfeat, self).__init__()
